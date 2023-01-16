@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreenivas</h1>
-- 🔭 I’m currently working on **building as a Developer.**
+- 🔭 I’m currently working on **building profile as a Developer.**
 
 - 🌱 I’m currently learning **Rest API and Full Stack Developement**
 

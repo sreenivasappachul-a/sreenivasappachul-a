@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sreenivas</h1>
-- 🔭 I’m currently working on **building my profile as a Developer.**
+- 🔭 I’m currently working on **building my profile as a Developer and Web Security Reseacher.**
 
-- 🌱 I’m currently learning **Rest API ,Spring-Boot**
+- 🌱 I’m currently learning **web Security OWASP TOP 10**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m looking to collaborate on **open source projects.** 
 
 - 📫 How to reach me **sreenivasappachul@gmail.com**
 <h3 align="left">Languages:</h3>

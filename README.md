@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreenivas</h1>
 - 🔭 I’m currently working on **building my profile as a Developer.**
 
-- 🌱 I’m currently learning **Rest API and Full Stack Developement**
+- 🌱 I’m currently learning **Rest API ,Spring-Boot**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
